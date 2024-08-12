@@ -1,2 +1,2 @@
 # Projeto03-HTML E CSS
-Neste repositório contém o projeto de uma lauding page para um site de frutas.
+Neste repositório contém o projeto de uma landing page para um site de frutas.
